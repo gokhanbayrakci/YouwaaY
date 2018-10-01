@@ -1,0 +1,503 @@
+@media screen and (min-width:1366px){
+  .background-gradient {
+    background: url("backgroundImage.jpg") no-repeat, -moz-linear-gradient(to left,#C8EAF2 0%, #E1F5F6 100%);
+    background: url("backgroundImage.jpg") no-repeat, -webkit-linear-gradient(to left,#C8EAF2 0%, #E1F5F6 100%);
+    background: url("backgroundImage.jpg") no-repeat, -webkit-linear-gradient(to left,#C8EAF2 0%, #E1F5F6 100%);
+    background: url("backgroundImage.jpg") no-repeat, -o-linear-gradient(to left,#C8EAF2 0%, #E1F5F6 100%);
+    background: url("backgroundImage.jpg") no-repeat, -ms-linear-gradient(to left,#C8EAF2 0%, #E1F5F6 100%);
+    background: url("backgroundImage.jpg") no-repeat, linear-gradient(to left,#C8EAF2 0%, #E1F5F6 100%);
+    background-size:cover;
+    display: table;
+    background-position:center;
+    background-attachment: fixed;
+    height: 100vh;
+    width: 100%;
+    opacity: .6;  
+    }
+
+    .logo-text {
+      display: table-cell;
+      text-align: center;
+      vertical-align: middle;
+      
+    }
+    .logo-text h1 {
+      font-size: 850%;
+      font-weight: bold;
+      font-family: 'Ubuntu', sans-serif;
+      
+      
+    } 
+    .waay {
+      color: #273640;
+    }
+    .you {
+      color:#08C74B;
+    }
+    * {
+      box-sizing: border-box;
+    }
+    
+    
+    form.example input[type=text] {
+      padding: 10px;
+      font-size: 17px;
+      border: 1px solid grey;
+      width: 33%;
+      background: #f1f1f1;
+      background-position: center;
+      border-bottom-left-radius: 10px;
+      border-top-left-radius: 10px;
+      
+    }
+    
+    
+    form.example button {
+      
+      width: 10%;
+      padding: 10px;
+      background: #dc3545;
+      color: white;
+      font-size: 17px;
+      background-position: center;
+      border: 1px solid grey;
+      border-left: none;
+      cursor: pointer;
+      border-bottom-right-radius: 10px;
+      border-top-right-radius: 10px;
+      
+    }
+    
+    form.example button:hover {
+      background: #dc3545;
+    }
+    
+    
+    form.example::after {
+      content: "";
+      clear: both;
+      display: table;
+    }
+  }
+
+@media screen and (min-width:960px) and (max-width:1365px){
+    .background-gradient {
+      background: url("backgroundImage.jpg") no-repeat, -moz-linear-gradient(to left,#C8EAF2 0%, #E1F5F6 100%);
+      background: url("backgroundImage.jpg") no-repeat, -webkit-linear-gradient(to left,#C8EAF2 0%, #E1F5F6 100%);
+      background: url("backgroundImage.jpg") no-repeat, -webkit-linear-gradient(to left,#C8EAF2 0%, #E1F5F6 100%);
+      background: url("backgroundImage.jpg") no-repeat, -o-linear-gradient(to left,#C8EAF2 0%, #E1F5F6 100%);
+      background: url("backgroundImage.jpg") no-repeat, -ms-linear-gradient(to left,#C8EAF2 0%, #E1F5F6 100%);
+      background: url("backgroundImage.jpg") no-repeat, linear-gradient(to left,#C8EAF2 0%, #E1F5F6 100%);
+      background-size:cover;
+      display: table;
+      background-position:center;
+      background-attachment: fixed;
+      height: 100vh;
+      width: 100%;
+      opacity: .6;
+       
+      }
+    
+    .logo-text {
+      display: table-cell;
+      text-align: center;
+      vertical-align: middle;
+      
+    }
+    .logo-text h1 {
+      font-size: 850%;
+      font-weight: bold;
+      font-family: 'Ubuntu', sans-serif;
+      
+      
+      
+    } 
+    .waay {
+      color: #273640;
+    }
+    .you {
+      color:#08C74B;
+    }
+    * {
+      box-sizing: border-box;
+    }
+    
+    
+    form.example input[type=text] {
+      padding: 10px;
+      font-size: 17px;
+      border: 1px solid grey;
+      width: 33%;
+      background: #f1f1f1;
+      background-position: center;
+      border-bottom-left-radius: 10px;
+      border-top-left-radius: 10px;
+      
+    }
+    
+    
+    form.example button {
+      
+      width: 10%;
+      padding: 10px;
+      background: #dc3545;
+      color: white;
+      font-size: 17px;
+      background-position: center;
+      border: 1px solid grey;
+      border-left: none;
+      cursor: pointer;
+      border-bottom-right-radius: 10px;
+      border-top-right-radius: 10px;
+      
+    }
+    
+    form.example button:hover {
+      background: #dc3545;
+    }
+    
+    
+    form.example::after {
+      content: "";
+      clear: both;
+      display: table;
+    }
+  
+}
+@media screen and (min-width:720px) and (max-width:959px){
+  .background-gradient {
+    background: url("backgroundImage.jpg") no-repeat, -moz-linear-gradient(to left,#C8EAF2 0%, #E1F5F6 100%);
+    background: url("backgroundImage.jpg") no-repeat, -webkit-linear-gradient(to left,#C8EAF2 0%, #E1F5F6 100%);
+    background: url("backgroundImage.jpg") no-repeat, -webkit-linear-gradient(to left,#C8EAF2 0%, #E1F5F6 100%);
+    background: url("backgroundImage.jpg") no-repeat, -o-linear-gradient(to left,#C8EAF2 0%, #E1F5F6 100%);
+    background: url("backgroundImage.jpg") no-repeat, -ms-linear-gradient(to left,#C8EAF2 0%, #E1F5F6 100%);
+    background: url("backgroundImage.jpg") no-repeat, linear-gradient(to left,#C8EAF2 0%, #E1F5F6 100%);
+    background-size:cover;
+    display: table;
+    background-position:center;
+    background-attachment: fixed;
+    height: 100vh;
+    width: 100%;
+    opacity: .6;  
+    }
+    .logo-text {
+      display: table-cell;
+      text-align: center;
+      vertical-align: middle;
+      
+    }
+    .logo-text h1 {
+      font-size: 850%;
+      font-weight: bold;
+      font-family: 'Ubuntu', sans-serif;
+      
+      
+      
+    } 
+    .waay {
+      color: #273640;
+    }
+    .you {
+      color:#08C74B;
+    }
+    * {
+      box-sizing: border-box;
+    }
+    
+    
+    form.example input[type=text] {
+      padding: 10px;
+      font-size: 17px;
+      border: 1px solid grey;
+      width: 47%;
+      background: #f1f1f1;
+      background-position: center;
+      border-bottom-left-radius: 10px;
+      border-top-left-radius: 10px;
+      
+    }
+    
+    
+    form.example button {
+      
+      width: 20%;
+      padding: 10px;
+      background: #dc3545;
+      color: white;
+      font-size: 17px;
+      background-position: center;
+      border: 1px solid grey;
+      border-left: none;
+      cursor: pointer;
+      border-bottom-right-radius: 10px;
+      border-top-right-radius: 10px;
+      
+    }
+    
+    form.example button:hover {
+      background: #dc3545;
+    }
+    
+    
+    form.example::after {
+      content: "";
+      clear: both;
+      display: table;
+    }
+
+}
+
+@media screen and (min-width:480px) and (max-width:719px){
+  .background-gradient {
+    background: url("backgroundImage.jpg") no-repeat, -moz-linear-gradient(to left,#C8EAF2 0%, #E1F5F6 100%);
+    background: url("backgroundImage.jpg") no-repeat, -webkit-linear-gradient(to left,#C8EAF2 0%, #E1F5F6 100%);
+    background: url("backgroundImage.jpg") no-repeat, -webkit-linear-gradient(to left,#C8EAF2 0%, #E1F5F6 100%);
+    background: url("backgroundImage.jpg") no-repeat, -o-linear-gradient(to left,#C8EAF2 0%, #E1F5F6 100%);
+    background: url("backgroundImage.jpg") no-repeat, -ms-linear-gradient(to left,#C8EAF2 0%, #E1F5F6 100%);
+    background: url("backgroundImage.jpg") no-repeat, linear-gradient(to left,#C8EAF2 0%, #E1F5F6 100%);
+    background-size:cover;
+    display: table;
+    background-position:center;
+    background-attachment: fixed;
+    height: 100vh;
+    width: 100%;
+    opacity: .6;  
+    }
+    .logo-text {
+      display: table-cell;
+      text-align: center;
+      vertical-align: middle;
+      
+    }
+    .logo-text h1 {
+      font-size: 470%;
+      font-weight: bold;
+      font-family: 'Ubuntu', sans-serif;
+      
+      
+      
+    } 
+    .waay {
+      color: #273640;
+    }
+    .you {
+      color:#08C74B;
+    }
+    * {
+      box-sizing: border-box;
+    }
+    
+    
+    form.example input[type=text] {
+      padding: 30px;
+      font-size: 17px;
+      border: 1px solid grey;
+      width: 33%;
+      background: #f1f1f1;
+      background-position: center;
+      border-bottom-left-radius: 10px;
+      border-top-left-radius: 10px;
+      
+    }
+    
+    
+    form.example button {
+      
+      width: 10%;
+      padding: 10px;
+      background: #dc3545;
+      color: white;
+      font-size: 17px;
+      background-position: center;
+      border: 1px solid grey;
+      border-left: none;
+      cursor: pointer;
+      border-bottom-right-radius: 10px;
+      border-top-right-radius: 10px;
+      
+    }
+    
+    form.example button:hover {
+      background: #dc3545;
+    }
+    
+    
+    form.example::after {
+      content: "";
+      clear: both;
+      display: table;
+    }
+}
+@media screen and (min-width:330px) and (max-width:479px){
+  .background-gradient {
+    background: url("backgroundImage.jpg") no-repeat, -moz-linear-gradient(to left,#C8EAF2 0%, #E1F5F6 100%);
+    background: url("backgroundImage.jpg") no-repeat, -webkit-linear-gradient(to left,#C8EAF2 0%, #E1F5F6 100%);
+    background: url("backgroundImage.jpg") no-repeat, -webkit-linear-gradient(to left,#C8EAF2 0%, #E1F5F6 100%);
+    background: url("backgroundImage.jpg") no-repeat, -o-linear-gradient(to left,#C8EAF2 0%, #E1F5F6 100%);
+    background: url("backgroundImage.jpg") no-repeat, -ms-linear-gradient(to left,#C8EAF2 0%, #E1F5F6 100%);
+    background: url("backgroundImage.jpg") no-repeat, linear-gradient(to left,#C8EAF2 0%, #E1F5F6 100%);
+    background-size:cover;
+    background-position:center;
+    display: table;
+    background-attachment: fixed;
+    height: 100vh;
+    width: 100%;
+    opacity: .6;  
+    }
+    .logo-text {
+      display: table-cell;
+      text-align: center;
+      vertical-align: middle;
+      
+    }
+    .logo-text h1 {
+      font-size: 450%;
+      font-weight: bold;
+      font-family: 'Ubuntu', sans-serif;
+      
+      
+      
+    } 
+    .waay {
+      color: #273640;
+    }
+    .you {
+      color:#08C74B;
+    }
+    * {
+      box-sizing: border-box;
+    }
+    
+    
+    form.example input[type=text] {
+      padding: 10px;
+      font-size: 17px;
+      border: 1px solid grey;
+      width: 50%;
+      background: #f1f1f1;
+      background-position: center;
+      border-bottom-left-radius: 10px;
+      border-top-left-radius: 10px;
+      
+    }
+    
+    
+    form.example button {
+      
+      width: 20%;
+      padding: 10px;
+      background: #dc3545;
+      color: white;
+      font-size: 17px;
+      background-position: center;
+      border: 1px solid grey;
+      border-left: none;
+      cursor: pointer;
+      border-bottom-right-radius: 10px;
+      border-top-right-radius: 10px;
+      
+    }
+    
+    form.example button:hover {
+      background: #dc3545;
+    }
+    
+    
+    form.example::after {
+      content: "";
+      clear: both;
+      display: table;
+    }
+}
+@media screen and (min-width:0px) and (max-width:330px){
+  .background-gradient {
+    background: url("backgroundImage.jpg") no-repeat, -moz-linear-gradient(to left,#C8EAF2 0%, #E1F5F6 100%);
+    background: url("backgroundImage.jpg") no-repeat, -webkit-linear-gradient(to left,#C8EAF2 0%, #E1F5F6 100%);
+    background: url("backgroundImage.jpg") no-repeat, -webkit-linear-gradient(to left,#C8EAF2 0%, #E1F5F6 100%);
+    background: url("backgroundImage.jpg") no-repeat, -o-linear-gradient(to left,#C8EAF2 0%, #E1F5F6 100%);
+    background: url("backgroundImage.jpg") no-repeat, -ms-linear-gradient(to left,#C8EAF2 0%, #E1F5F6 100%);
+    background: url("backgroundImage.jpg") no-repeat, linear-gradient(to left,#C8EAF2 0%, #E1F5F6 100%);
+    background-size:cover;
+    background-position:center;
+    display: table;
+    background-attachment: fixed;
+    height: 100vh;
+    width: 100%;
+    opacity: .6;  
+  }
+
+  .logo-text {
+    display: table-cell;
+    text-align: center;
+    vertical-align: middle;
+    
+  }
+  .logo-text h1 {
+    font-size: 350%;
+    font-weight: bold;
+    font-family: 'Ubuntu', sans-serif;
+    
+    
+    
+  } 
+  .waay {
+    color: #273640;
+  }
+  .you {
+    color:#08C74B;
+  }
+  * {
+    box-sizing: border-box;
+  }
+  
+  
+  form.example input[type=text] {
+    padding: 10px;
+    font-size: 17px;
+    border: 1px solid grey;
+    width: 45%;
+    background: #f1f1f1;
+    background-position: center;
+    border-bottom-left-radius: 10px;
+    border-top-left-radius: 10px;
+    
+  }
+  
+  
+  form.example button {
+    
+    width: 20%;
+    padding: 10px;
+    background: #dc3545;
+    color: white;
+    font-size: 17px;
+    background-position: center;
+    border: 1px solid grey;
+    border-left: none;
+    cursor: pointer;
+    border-bottom-right-radius: 10px;
+    border-top-right-radius: 10px;
+    
+  }
+  
+  form.example button:hover {
+    background: #dc3545;
+  }
+  
+  
+  form.example::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+}
+
+
+
+
+
+
+
+
+ 
+
